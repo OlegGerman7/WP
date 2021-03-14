@@ -1,0 +1,21 @@
+# Ignore everything:
+*
+
+# Except for the theme directory:
+!markup
+!markup/*
+!markup/*/*
+!markup/*/*/*
+!markup/*/*/*/*
+!markup/*/*/*/*/*
+
+!wp-content/
+!wp-content/themes/
+!wp-content/themes/harmonic/
+!wp-content/themes/harmonic/*
+!wp-content/themes/harmonic/*/*
+!wp-content/themes/harmonic/*/*/*
+!wp-content/themes/harmonic/*/*/*/*
+!wp-content/themes/harmonic/*/*/*/*/*
+
+!.gitignore
